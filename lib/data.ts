@@ -74,6 +74,7 @@ export const projectsData = [
     description:
       "No projects yet.",
     tags: ["#"],
+    imageUrl: metaversusImg,
     
   },
   // {
