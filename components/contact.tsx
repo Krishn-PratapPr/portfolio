@@ -53,7 +53,7 @@ export default function Contact() {
 <a href=" https://www.linkedin.com/in/krishn-pratap-singh" target='_blank' className='bg-white text-gray-700 p-4 flex items-center gap-2 rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-[1.15] hover:text-gray-950 transition border border-black/10 dark:bg-white/10 dark:text-white/60'>
           <BsLinkedin/>
         </a>
-        <a href="https://github.com/Krishn-PratapPr" target='_blank' className='bg-white text-gray-700 p-4 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-[1.15] hover:text-gray-950 transition border border-black/10 dark:bg-white/10 dark:text-white/60'>
+        <a href="https://t.me/thakur_kp9" target='_blank' className='bg-white text-gray-700 p-4 flex items-center gap-2 text-[1.35rem] rounded-full focus:scale-[1.15] hover:scale-[1.15] active:scale-[1.15] hover:text-gray-950 transition border border-black/10 dark:bg-white/10 dark:text-white/60'>
           <FaTelegram/>
         </a>
     </motion.section>
